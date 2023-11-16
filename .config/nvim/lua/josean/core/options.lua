@@ -43,3 +43,4 @@ opt.swapfile = false
 
 opt.foldmethod = "expr"
 opt.foldexpr = "nvim_treesitter#foldexpr()"
+vim.opt.foldenable = false
